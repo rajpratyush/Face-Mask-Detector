@@ -1,6 +1,3 @@
-"""
-@Author: Md. Jahid Hasan <jahidnoyon36@gmail.com>
-"""
 
 from keras.preprocessing.image import img_to_array
 import imutils
